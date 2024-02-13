@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Géssica.
 
-🌱 Iniciante no mundo Qa <br>
+🌱 Iniciante no mundo QA <br>
 💻 Atualmente Trabalhando como Analista de Suporte Jr.
 
 <div "align="center">
