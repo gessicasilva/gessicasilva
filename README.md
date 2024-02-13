@@ -1,8 +1,7 @@
-### Olá! Meu nome é Géssica Silva.
+### Olá! Meu nome é Géssica.
 
-🌱 Iniciante no mundo Devops <br>
-☁ Iniciante no mundo Cloud Computing <br>
-💻 Atualmente Trabalhando como Técnica de Monitoramento de Redes
+🌱 Iniciante no mundo Qa <br>
+💻 Atualmente Trabalhando como Analista de Suporte Jr.
 
 <div "align="center">
    <a href="https://github.com/gessicasilva">
